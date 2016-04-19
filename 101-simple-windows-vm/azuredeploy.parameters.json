@@ -3,17 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "fbstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "frankys_b"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Konpli8kado"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "fb"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"}
   }
 }
 
